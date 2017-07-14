@@ -73,7 +73,7 @@ module.exports = function (env) {
     },
 
     devServer: {
-      port: 8080,
+      port: 4201,
       stats: 'minimal'
     },
 
